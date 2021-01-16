@@ -1,0 +1,99 @@
+aula 48 -> exercicio "Criar lista"
+
+aula 49 -> superficial sobre funções
+
+aula 50 -> parêmetros ( rest...)
+
+aula 51 -> retorno das funções
+
+aula 52 -> escopo léxico
+
+aula 53 -> closures
+
+aula 54 -> callback
+
+aula 55 -> IIFE
+
+aula 56 -> funções fábricas
+
+aula 57 -> calculadora
+
+aula 58 -> funções construtoras
+
+aula 59 -> calculadora da 58 com construtora
+
+aula 60 -> funções recursivas
+
+aula 61 -> funções geradoras
+
+aula 62 -> Revisão de manipulação de arrays
+
+aula 63 -> Método Splice
+
+aula 64 -> Concatenação arrays
+
+aula 65 -> filtando o array (filter)
+
+aula 66 -> mapeando o array (map)
+
+aula 67 -> Reduzindo o array (reduce)
+
+aula 68 -> Filter + Map + Reduce
+
+aula 69 -> forEach
+
+aula 70 -> revisando objetos (+Freeze)
+
+aula 71 -> Object.defineProperty + Object.defineProperties
+
+aula 72 -> Getters e Setters do defineProperty
+
+aula 73 -> Métodos úteis para objetos
+
+aula 74 -> Prototypes
+
+aula 75 -> Manipulando Prototypes
+
+aula 76 -> Herança
+
+aula 77 -> Exercicio - Validando CPF
+
+aula 78 -> Polimorfismo
+
+aula 79 -> Factory Functuions + Prototypes
+
+aula 80 -> Criando classes
+
+aula 81 -> Getter e Setters (Classe)
+
+aula 82 -> Herança com classes
+
+aula 83 -> Métodos de instância e estáticos
+
+aula 84 -> Usando classes (Validando CPF)
+
+aula 85 -> Validando um formulário (usando classe)
+
+aula 86 -> Promises
+
+aula 87 -> Métodos úteis para promises
+
+aula 88 -> Async / Await
+
+aula 89 -> XMLHttpRequest (GET) + Promises [inst ext]
+
+aula 90 -> Fetch API (GET)
+
+aula 91 -> Fetch API e Axios (JSON)
+
+aula 92 -> Babel e "can i use..." 
+
+aula 93 -> Webpack (Boilerplate)
+
+aula 94 -> ES6 Modules - Import/Export
+
+aula 95 -> Criando um gerador de CPFs válidos
+
+aula 96 -> Criando um gerador de senhas
+
+aula 97 -> Core-js e regenerator-runtime
