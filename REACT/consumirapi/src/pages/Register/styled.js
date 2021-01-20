@@ -13,11 +13,11 @@ export const Form = styled.form`
   }
 
   input {
-    height: 40px;
-    font-size: 18px;
     border: 1px solid #ddd;
-    padding: 0 10px;
     border-radius: 4px;
+    font-size: 18px;
+    height: 40px;
+    padding: 0 10px;
     margin-top: 5px;
 
     &:focus {
